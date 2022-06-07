@@ -1,0 +1,8 @@
+prof:
+  dev2
+
+ser:
+  admin:
+    name: admin
+    pwd: 1234567
+    status: 3
